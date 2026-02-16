@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Galactic News Network</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <h1>🌌 Galactic News Network</h1>
+
+    <h2>Welcome to Our Space News Hub</h2>
+
+    <p>
+        Welcome to Galactic News Network, your source for exciting discoveries
+        beyond Earth. Today’s featured story explores a newly discovered planet
+        that could possibly support life. Scientists around the world are calling
+        it one of the most promising space discoveries in recent years.
+    </p>
+
+    <!-- Link to article (opens in SAME window) -->
+    <p>
+        <a href="article.html">Read the Full Story</a>
+    </p>
+
+    <hr>
+
+    <!-- PDF Link (opens in NEW window) -->
+    <h2>Download This Article</h2>
+    <p>
+        Prefer reading offline? You can download a PDF version of this article below.
+    </p>
+
+    <a href="documents/article.pdf" target="_blank">
+        Download PDF Version
+    </a>
+
+    <hr>
+
+    <!-- External News Source (opens in NEW window) -->
+    <h2>More Space Updates</h2>
+    <p>
+        For real-time updates on space missions, rocket launches, and new discoveries,
+        visit NASA’s official news page.
+    </p>
+
+    <a href="https://www.nasa.gov/news/" target="_blank">
+        Visit NASA News
+    </a>
+
+</body>
+</html>
